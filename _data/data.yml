@@ -26,7 +26,7 @@ sidebar:
   gitlab:
   bitbucket:
   bluesky: 
-  twitter: '@janlemcke'
+  twitter: '@jan_lemcke'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -49,7 +49,7 @@ sidebar:
     title: Interests
     info:
     - item: Handball
-      link:
+      link: https://www.sghw.berlin
 
 career-profile:
   title: Career Profile
