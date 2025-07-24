@@ -10,7 +10,7 @@ sidebar:
   # Profile information
   name: Jan Lemcke
   title: Full Stack Developer
-  tagline: Full Stack Developer
+  tagline: Using AI to accelerate the world's transition to a sustainable economy.
   avatar: avatar.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -85,7 +85,7 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: BSc in Busieness Information Systems
+  - degree: BSc in Business Information Systems
     university: University of Potsdam
     time: 2017 - 2020
     details: |
@@ -111,7 +111,7 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: PhD Candidate
+  - role: PhD Student
     time: 2025 - Present
     company: Hasso-Plattner Institute, Potsdam
     details: |
@@ -126,6 +126,7 @@ experiences:
       architecto beatae vitae dicta sunt explicabo.
         - Bullet point
         - Bullet point
+
   - role: Working Student Data Analyst
     time: January 2024 - December 2014
     company: HH2E, Berlin
@@ -135,42 +136,61 @@ experiences:
       For this purpose, a database was designed, set up, and used to prepare, collect, and analyze historical generation data from PV and wind farms. 
       In addition, the generation data was enriched with weather data in order to establish a correlation and, with the help of machine learning, to predict the future performance of the farms.
 
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+  - role: Scientific Assistant
+    time: April 2023 - August 2023
+    company: Hasso-Plattner Institute, Potsdam
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Tutor for the module "Introduction to Probabilistic Machine Learning" at the Hasso Plattner Institute (HPI) at the University of Potsdam for the chair "Artificial Intelligence and Sustainability".
+  
+  - role: Scientific Assistant
+    time: November 2017 - February 2023
+    company: University of Potsdam, Potsdam
+    details: |
+      Tutor for the modules "Machine Learning 1" and "Machine Learning 2" at the Institute of Computer Science and Computational Science at the Chair of Machine Learning.
+  
+  - role: Working Student
+    time: September 2020 - October 2020
+    company: Daimler Center for Automotive Information Technology innovations (DCAITI) of Potsdam, Potsdam
+    details: |
+      - Member of a research and development team specializing in future scenarios for automotive electronics
+      - Collaboration in the development of a geographic information system for the automotive sector
+      - Creation and editing of GeoJSON files for HD maps
+
+  - role: Working Student
+    time: September 2017 - February 2020
+    company: Bosch.IO, Berlin
+    details: |
+      During my time at Bosch.IO in Berlin from September 2017 to February 2020, I worked in various roles including working student, intern, and thesis student, gaining comprehensive experience in software development and applied research. As part of an agile development team in the energy sector, I contributed to the creation of a cloud-based process automation system for the rollout of modern metering infrastructure, using technologies such as Java and Python. In my internship, I supported the implementation of information security processes based on the BSI IT-Grundschutz standards. My Bachelor's thesis, titled “Forecasting the electricity demand of a production plant using machine learning,” focused on data engineering and the use of TensorFlow to develop predictive models. Additionally, I participated in outreach activities as a trainer for Kids Hackathons, helping to foster interest in coding and technology among young learners. This period provided me with valuable experience in both technical implementation and interdisciplinary collaboration within a real-world industrial context.
+  
+  - role: IT-System Administrator
+    time: August 2016 - Juli 2017
+    company: Serviva GmbH, Berlin
+    details: Support with system administration as well as adaptation and maintenance of IT systems
+
+  - role: Intern Software Engineering
+    time: April 2016 - September 2016
+    company: H&L Unternehmensberatung GmbH, Berlin
+    details: Development of a graphical user interface (GUI) for a high-speed computing core based on in-memory technology in C#.NET and Windows Forms
 
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
+  - name: Nature Investor
+    start: 2024
+    end: 
+    organization: Planet Wild
+    credentialid: 
+    credentialurl: https://planetwild.com
+    credentialname: Planet Wild
     details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      Planet Wild is a global community of people who care deeply about nature. 
+      Every month, the community crowdfunds pioneering environmental projects that:
 
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
+      🦁 Bring back endangered species
+      🌊 Support ocean and aquatic life
+      🌳 Revive forests and rewild landscapes
+
+      Everything is documented in monthly videos to showcase what our support really achieves on the ground.
   - name: Git learning
     start: 2019
     end:
